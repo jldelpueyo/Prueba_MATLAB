@@ -4,6 +4,7 @@ a = 2;
 b = 3;
 c = a*b;
 
-% Branch: A-1
+% Branch: A-2
 
-a = 3;
+a = 4;
+
